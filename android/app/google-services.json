@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "132368687138",
+    "firebase_url": "https://lollipopbookstore.firebaseio.com",
+    "project_id": "lollipopbookstore",
+    "storage_bucket": "lollipopbookstore.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132368687138:android:7db0dd23dec4617bdc2a7b",
+        "android_client_info": {
+          "package_name": "com.example.lolipop_book_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132368687138-0duidgphveuv54f8c1m5p9466g73nrl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFRPAeV6OX1oXYQ-pv8RgO7HZLGAkTFZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132368687138-0duidgphveuv54f8c1m5p9466g73nrl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
